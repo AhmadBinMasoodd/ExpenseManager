@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="mini_social_application"
+        android:label="Expense Manager App"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
